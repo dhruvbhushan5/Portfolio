@@ -1,0 +1,43 @@
+#item{
+    flex-direction: column;
+}
+#item .boxes{
+    padding: 14px;
+    margin: 2px;
+    margin-bottom: 20px;
+    height: 200px;
+  
+    
+}
+#item .box8{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1.8rem;
+    margin-top: 15px;
+}
+#item #basic{
+    padding-left: 105px;
+}
+#item #mobile{
+    padding-left: 90px;
+}
+
+#items{
+    flex-direction: column;
+}
+#items .boxes2{
+    padding: 14px;
+    margin: 2px;
+    margin-bottom: 20px;
+    height: 300px;
+  
+    
+}
+#items .box14{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1.8rem;
+    margin-top: 15px;
+}
